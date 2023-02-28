@@ -1,7 +1,7 @@
 <script>
     import Browser from '$lib/browser.svelte'
 
-    let browserOpen = true
+    let browserOpen = false
     let browserLink = ""
 </script>
 
